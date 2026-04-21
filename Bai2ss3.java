@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-    public class Bai2ss3 {
+    public class Bai2Ss3 {
 
         static ArrayList<Double> danhSachDiem = new ArrayList<>();
         static Scanner scanner = new Scanner(System.in);
